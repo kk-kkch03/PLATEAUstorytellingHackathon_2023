@@ -8,6 +8,6 @@
 
 作品には以下からの引用を含みます
 
-| 引用元 ｜ ライセンス |
+| 引用元 | ライセンス |
 | ---- | ---- |
 | [墨田区](https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/photo/index.html) | [CC BY 2.1](https://creativecommons.org/licenses/by/2.1/jp/) |
